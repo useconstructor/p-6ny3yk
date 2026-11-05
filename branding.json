@@ -1,915 +1,915 @@
 {
-  "primaryColor": "#A83224",
-  "secondaryColor": "#F0C463",
-  "backgroundColor": "#FFF5E5",
-  "textColor": "#302019",
-  "accentColor": "#A83224",
-  "fontHeading": "Atkinson Hyperlegible",
-  "fontBody": "Atkinson Hyperlegible",
-  "borderRadius": "0.5rem",
-  "logoText": "Taquería Monterey",
-  "logoImageUrl": null,
   "tone": "trustworthy",
+  "fontBody": "Atkinson Hyperlegible",
+  "logoText": "Taquería Monterey",
   "brandbook": {
-    "version": 1,
-    "origin": "proposed",
-    "researchStatus": "unavailable",
-    "tokenSemanticsVersion": 1,
-    "positioning": "Prototipo ficticio de una taquería cuyo menú se conecta directamente con una comanda editable. Productos y precios de demostración, sin cobros, preparación real ni afirmaciones sobre un negocio existente.",
-    "voice": "Español directo, cálido y preciso. Acciones completas como Añadir, Revisar pedido y Conservar pedido. Distinguir pendiente, guardado y resultado incierto sin tecnicismos innecesarios ni promesas operativas.",
     "motif": "La tortilla plegada inspira el pequeño pliegue de identificación de la comanda. Un borde continuo enlaza referencias seleccionadas, especificación y acción; no introducir celdas vacías obligatorias, texturas fotográficas ni adornos que tapen contenido.",
-    "sources": [
-      "https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:wght@400;500;600;700&display=swap"
-    ],
-    "colors": [
-      {
-        "role": "background",
-        "name": "Warm Cream",
-        "hex": "#FFF5E5"
-      },
-      {
-        "role": "surface",
-        "name": "Golden Maize",
-        "hex": "#F0C463"
-      },
-      {
-        "role": "accent",
-        "name": "Roast Red",
-        "hex": "#A83224"
-      },
-      {
-        "role": "text",
-        "name": "Cocoa Ink",
-        "hex": "#302019"
-      },
-      {
-        "role": "muted",
-        "name": "Toasted Edge",
-        "hex": "#897465"
-      }
-    ],
-    "fontFaces": [
-      {
-        "family": "Atkinson Hyperlegible",
-        "weight": "400",
-        "url": "https://fonts.gstatic.com/s/atkinsonhyperlegible/v12/9Bt23C1KxNDXMspQ1lPyU89-1h6ONRlW45GE5Q.ttf",
-        "availableWeights": [
-          "400",
-          "700"
-        ]
-      },
-      {
-        "family": "Atkinson Hyperlegible",
-        "weight": "700",
-        "url": "https://fonts.gstatic.com/s/atkinsonhyperlegible/v12/9Bt73C1KxNDXMspQ1lPyU89-1h6ONRlW45G8WbcNcw.ttf",
-        "availableWeights": [
-          "400",
-          "700"
-        ]
-      }
-    ],
-    "markSvg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 160 160\"><circle cx=\"80\" cy=\"80\" r=\"76\" fill=\"#FFF5E5\"/><path d=\"M24 56 Q80 20 136 56 A56 56 0 0 1 24 56Z\" fill=\"#F0C463\" stroke=\"#302019\" stroke-width=\"6\" stroke-linejoin=\"round\"/><path d=\"M24 56 Q80 78 136 56\" fill=\"none\" stroke=\"#302019\" stroke-width=\"6\" stroke-linecap=\"round\"/><path d=\"M101 66 Q119 63 136 56 Q134 79 123 92Z\" fill=\"#A83224\" stroke=\"#302019\" stroke-width=\"6\" stroke-linejoin=\"round\"/></svg>",
     "pages": [
       {
+        "id": "brand-page-1",
         "title": "Brand guidelines",
+        "layout": "cover",
         "summary": "Prototipo ficticio de una taquería cuyo menú se conecta directamente con una comanda editable. Productos y precios de demostración, sin cobros, preparación real ni afirmaciones sobre un negocio existente.",
         "examples": [
           {
-            "title": "Taquería Monterey",
-            "text": "Menú y comanda, en una misma superficie."
+            "text": "Menú y comanda, en una misma superficie.",
+            "title": "Taquería Monterey"
           },
           {
-            "title": "Cover composition",
-            "text": "Use a 32 px outer margin, a 40 px title and a compact cream support behind the complete symbol."
+            "text": "Use a 32 px outer margin, a 40 px title and a compact cream support behind the complete symbol.",
+            "title": "Cover composition"
           }
-        ],
-        "id": "brand-page-1",
-        "layout": "cover"
+        ]
       },
       {
+        "id": "brand-page-2",
         "title": "The Brand",
+        "layout": "divider",
         "summary": "Use Roast Red #A83224 for this divider, with cream typography and generous empty space. Introduce the connected menu and comanda rather than a promotional restaurant story.",
         "examples": [
           {
-            "title": "Una selección clara",
-            "text": "Elige productos, ajusta cantidades y revisa tu pedido de demostración."
+            "text": "Elige productos, ajusta cantidades y revisa tu pedido de demostración.",
+            "title": "Una selección clara"
           },
           {
-            "title": "Divider rhythm",
-            "text": "Place the tortilla symbol above the heading. Keep the introductory line within a short, left-aligned column."
+            "text": "Place the tortilla symbol above the heading. Keep the introductory line within a short, left-aligned column.",
+            "title": "Divider rhythm"
           }
-        ],
-        "id": "brand-page-2",
-        "layout": "divider"
+        ]
       },
       {
+        "id": "brand-page-3",
         "title": "Welcome",
+        "layout": "content",
         "summary": "Public research could not be completed. This guide presents a proposed identity based on the supplied brief.",
         "examples": [
           {
-            "title": "Bienvenido a Taquería Monterey",
-            "text": "Explora el menú y prepara una selección de demostración."
+            "text": "Explora el menú y prepara una selección de demostración.",
+            "title": "Bienvenido a Taquería Monterey"
           },
           {
-            "title": "One notice per view",
-            "text": "Prototipo ficticio · Productos y precios de demostración · Sin cobros ni preparación real."
+            "text": "Prototipo ficticio · Productos y precios de demostración · Sin cobros ni preparación real.",
+            "title": "One notice per view"
           }
-        ],
-        "id": "brand-page-3",
-        "layout": "content"
+        ]
       },
       {
+        "id": "brand-page-4",
         "title": "Index",
+        "layout": "content",
         "summary": "Organize the manual into identity, visual system and applications. Use bold section names, regular page ranges and consistent left alignment; do not turn the index into a dense grid.",
         "examples": [
           {
-            "title": "Identity · 5–15",
-            "text": "Definition, editorial principles and the folded-tortilla logo."
+            "text": "Definition, editorial principles and the folded-tortilla logo.",
+            "title": "Identity · 5–15"
           },
           {
-            "title": "Visual system · 16–29",
-            "text": "Typography, layout, color, local illustrations and visual references."
+            "text": "Typography, layout, color, local illustrations and visual references.",
+            "title": "Visual system · 16–29"
           },
           {
-            "title": "Applications · 30–49",
-            "text": "Design studies for the three-view prototype and selected identity surfaces."
+            "text": "Design studies for the three-view prototype and selected identity surfaces.",
+            "title": "Applications · 30–49"
           }
-        ],
-        "id": "brand-page-4",
-        "layout": "content"
+        ]
       },
       {
+        "id": "brand-page-5",
         "title": "Defining",
+        "layout": "content",
         "summary": "Define Taquería Monterey through its connected comanda: selection, quantities and review share one continuous surface. Avoid a separate promotional hero or a receipt detached from the menu.",
         "examples": [
           {
-            "title": "Menú",
-            "text": "Elige tus productos y revisa tu selección en la comanda."
+            "text": "Elige tus productos y revisa tu selección en la comanda.",
+            "title": "Menú"
           },
           {
-            "title": "Tu comanda",
-            "text": "Aquí aparecen solo los productos que añades."
+            "text": "Aquí aparecen solo los productos que añades.",
+            "title": "Tu comanda"
           }
-        ],
-        "id": "brand-page-5",
-        "layout": "content"
+        ]
       },
       {
+        "id": "brand-page-6",
         "title": "Vision & Mission",
+        "layout": "content",
         "summary": "Treat these as project intent, not a real company's declarations. Express the aim through clear selection and honest saved-state feedback; avoid claims about food quality or service.",
         "examples": [
           {
-            "title": "Project direction",
-            "text": "Keep choosing, editing and reviewing connected without losing the selected products."
+            "text": "Keep choosing, editing and reviewing connected without losing the selected products.",
+            "title": "Project direction"
           },
           {
-            "title": "Editorial expression",
-            "text": "Revisa tu selección antes de guardar el pedido de demostración."
+            "text": "Revisa tu selección antes de guardar el pedido de demostración.",
+            "title": "Editorial expression"
           }
-        ],
-        "id": "brand-page-6",
-        "layout": "content"
+        ]
       },
       {
+        "id": "brand-page-7",
         "title": "Brand Values",
+        "layout": "content",
         "summary": "Use clarity, continuity and honesty as proposed design principles, not corporate facts. Each principle must affect visible hierarchy, retained context or precise status language.",
         "examples": [
           {
-            "title": "Clarity",
-            "text": "Show “Taco de pastor · $22.00 MXN” beside its quantity control, not inside the illustration."
+            "text": "Show “Taco de pastor · $22.00 MXN” beside its quantity control, not inside the illustration.",
+            "title": "Clarity"
           },
           {
-            "title": "Continuity",
-            "text": "Keep the selected taco and its quantity visible during review and confirmation."
+            "text": "Keep the selected taco and its quantity visible during review and confirmation.",
+            "title": "Continuity"
           },
           {
-            "title": "Honesty",
-            "text": "Use “No pudimos confirmar si se guardó” when the result remains uncertain."
+            "text": "Use “No pudimos confirmar si se guardó” when the result remains uncertain.",
+            "title": "Honesty"
           }
-        ],
-        "id": "brand-page-7",
-        "layout": "content"
+        ]
       },
       {
+        "id": "brand-page-8",
         "title": "Tone of Voice",
+        "layout": "content",
         "summary": "Write interface copy in direct, warm Spanish. Name the action and its outcome without jokes, technical jargon or operational promises. Distinguish saving from preparation and uncertainty from failure.",
         "examples": [
           {
-            "title": "Action",
-            "text": "Revisar pedido"
+            "text": "Revisar pedido",
+            "title": "Action"
           },
           {
-            "title": "Validation",
-            "text": "Escribe un nombre de entre 2 y 80 caracteres."
+            "text": "Escribe un nombre de entre 2 y 80 caracteres.",
+            "title": "Validation"
           },
           {
-            "title": "Uncertain outcome",
-            "text": "Aún no sabemos si el pedido se guardó. Usa Recuperar pedido para consultar el resultado."
+            "text": "Aún no sabemos si el pedido se guardó. Usa Recuperar pedido para consultar el resultado.",
+            "title": "Uncertain outcome"
           }
-        ],
-        "id": "brand-page-8",
-        "layout": "content"
+        ]
       },
       {
+        "id": "brand-page-9",
         "title": "Logo",
+        "layout": "divider",
         "summary": "Open the logo chapter on Golden Maize #F0C463. Present the complete symbol on its cream support and the name in Cocoa Ink; keep explanatory copy below, never inside the mark.",
         "examples": [
           {
-            "title": "Taquería Monterey",
-            "text": "Una tortilla plegada identifica el menú y su comanda."
+            "text": "Una tortilla plegada identifica el menú y su comanda.",
+            "title": "Taquería Monterey"
           },
           {
-            "title": "Chapter composition",
-            "text": "Use one large lockup, one short caption and clear space on all sides."
+            "text": "Use one large lockup, one short caption and clear space on all sides.",
+            "title": "Chapter composition"
           }
-        ],
-        "id": "brand-page-9",
-        "layout": "divider"
+        ]
       },
       {
+        "id": "brand-page-10",
         "title": "Logo overview",
+        "layout": "logo",
         "summary": "The identity combines an original folded-tortilla symbol with a separately typeset name. Preserve the maize shell, ink contour, red fold and cream circular support as one fixed symbol.",
         "examples": [
           {
-            "title": "Full signature",
-            "text": "Use the symbol beside “Taquería Monterey” in the shared application header."
+            "text": "Use the symbol beside “Taquería Monterey” in the shared application header.",
+            "title": "Full signature"
           },
           {
-            "title": "Compact signature",
-            "text": "Use the symbol alone only where the full name is already visible, such as a nearby browser title."
+            "text": "Use the symbol alone only where the full name is already visible, such as a nearby browser title.",
+            "title": "Compact signature"
           }
-        ],
-        "id": "brand-page-10",
-        "layout": "logo"
+        ]
       },
       {
+        "id": "brand-page-11",
         "title": "Primary logo",
+        "layout": "logo",
         "summary": "Typeset both words in Atkinson Hyperlegible 700. Stack Taquería above Monterey, with Monterey approximately twice its size. Align the symbol to the combined name block.",
         "examples": [
           {
-            "title": "Header lockup",
-            "text": "Taquería at 16 px and Monterey at 32 px; use a 64 px symbol with a 12 px gap."
+            "text": "Taquería at 16 px and Monterey at 32 px; use a 64 px symbol with a 12 px gap.",
+            "title": "Header lockup"
           },
           {
-            "title": "Narrow header",
-            "text": "Reduce the lockup proportionally or move navigation below it. Never shorten the name to fit."
+            "text": "Reduce the lockup proportionally or move navigation below it. Never shorten the name to fit.",
+            "title": "Narrow header"
           }
-        ],
-        "id": "brand-page-11",
-        "layout": "logo"
+        ]
       },
       {
+        "id": "brand-page-12",
         "title": "Logo Safezone",
+        "layout": "logo",
         "summary": "Let x equal one quarter of the symbol width. Reserve at least x around the complete lockup, measured from its outermost edges. Keep navigation, borders and illustrations outside this area.",
         "examples": [
           {
-            "title": "64 px symbol",
-            "text": "Leave at least 16 px around the Taquería Monterey lockup."
+            "text": "Leave at least 16 px around the Taquería Monterey lockup.",
+            "title": "64 px symbol"
           },
           {
-            "title": "Standalone application",
-            "text": "A 32 mm symbol requires 8 mm of clear space beyond its cream support."
+            "text": "A 32 mm symbol requires 8 mm of clear space beyond its cream support.",
+            "title": "Standalone application"
           }
-        ],
-        "id": "brand-page-12",
-        "layout": "logo"
+        ]
       },
       {
+        "id": "brand-page-13",
         "title": "Color combinations",
+        "layout": "colors",
         "summary": "Keep symbol colors unchanged on every background. On cream or maize, use an ink name; on ink or red, use a cream name. The symbol's cream support must remain fully visible.",
         "examples": [
           {
-            "title": "Cream header",
-            "text": "Warm Cream background, Cocoa Ink name and the full-color tortilla symbol."
+            "text": "Warm Cream background, Cocoa Ink name and the full-color tortilla symbol.",
+            "title": "Cream header"
           },
           {
-            "title": "Red divider",
-            "text": "Roast Red background, cream name and the same supported symbol without recoloring."
+            "text": "Roast Red background, cream name and the same supported symbol without recoloring.",
+            "title": "Red divider"
           }
-        ],
-        "id": "brand-page-13",
-        "layout": "colors"
+        ]
       },
       {
+        "id": "brand-page-14",
         "title": "Brandmark",
+        "layout": "logo",
         "summary": "Use the folded tortilla as the only identity symbol. Its red corner suggests the comanda fold; do not replace it with initials, a pepper, a sombrero or a generic taco emoji.",
         "examples": [
           {
-            "title": "Comanda detail",
-            "text": "Echo the red fold once at the comanda heading, leaving product names and controls unobstructed."
+            "text": "Echo the red fold once at the comanda heading, leaving product names and controls unobstructed.",
+            "title": "Comanda detail"
           },
           {
-            "title": "Small symbol",
-            "text": "Use the complete 160 × 160 geometry. Remove surrounding decoration rather than simplifying individual paths."
+            "text": "Use the complete 160 × 160 geometry. Remove surrounding decoration rather than simplifying individual paths.",
+            "title": "Small symbol"
           }
-        ],
-        "id": "brand-page-14",
-        "layout": "logo"
+        ]
       },
       {
+        "id": "brand-page-15",
         "title": "Logo misuse",
+        "layout": "logo",
         "summary": "Do not stretch, rotate, crop, recolor or add effects to the symbol. Keep the business name in real typography and preserve its accent. Never place text across the tortilla.",
         "examples": [
           {
-            "title": "Incorrect",
-            "text": "“Taqueria Monterrey” changes both the accent and the supplied business name."
+            "text": "“Taqueria Monterrey” changes both the accent and the supplied business name.",
+            "title": "Incorrect"
           },
           {
-            "title": "Correct",
-            "text": "Taquería Monterey"
+            "text": "Taquería Monterey",
+            "title": "Correct"
           },
           {
-            "title": "Background correction",
-            "text": "On a maize panel, retain the cream support instead of drawing a white outline around the symbol."
+            "text": "On a maize panel, retain the cream support instead of drawing a white outline around the symbol.",
+            "title": "Background correction"
           }
-        ],
-        "id": "brand-page-15",
-        "layout": "logo"
+        ]
       },
       {
+        "id": "brand-page-16",
         "title": "Typography",
+        "layout": "divider",
         "summary": "Introduce typography with a large Spanish headline and a short supporting line. Use only Atkinson Hyperlegible, in 400 and 700; let weight and spacing create contrast rather than decorative styles.",
         "examples": [
           {
-            "title": "Elige con claridad",
-            "text": "Consulta el menú, ajusta cantidades y revisa tu selección."
+            "text": "Consulta el menú, ajusta cantidades y revisa tu selección.",
+            "title": "Elige con claridad"
           },
           {
-            "title": "Divider treatment",
-            "text": "Set the headline at 40 px/700 and the supporting line at 16 px/400, separated by 16 px."
+            "text": "Set the headline at 40 px/700 and the supporting line at 16 px/400, separated by 16 px.",
+            "title": "Divider treatment"
           }
-        ],
-        "id": "brand-page-16",
-        "layout": "divider"
+        ]
       },
       {
+        "id": "brand-page-17",
         "title": "Typography overview",
+        "layout": "type",
         "summary": "Use one family across the name, menu, fields and statuses. Keep sentence case and Spanish accents. Align descriptions and prices consistently so product choice remains the main reading task.",
         "examples": [
           {
-            "title": "Taco de champiñones",
-            "text": "Tacos · $24.00 MXN"
+            "text": "Tacos · $24.00 MXN",
+            "title": "Taco de champiñones"
           },
           {
-            "title": "Character coverage",
-            "text": "Preserve ñ, í and ó in “champiñones”, “Taquería” and “demostración”; never remove accents for visual convenience."
+            "text": "Preserve ñ, í and ó in “champiñones”, “Taquería” and “demostración”; never remove accents for visual convenience.",
+            "title": "Character coverage"
           }
-        ],
-        "id": "brand-page-17",
-        "layout": "type"
+        ]
       },
       {
+        "id": "brand-page-18",
         "title": "Primary typeface",
+        "layout": "type",
         "summary": "Atkinson Hyperlegible is the supplied project typeface. Regular 400 and Bold 700 files are available for local use; keep both headings and body copy in this family.",
         "examples": [
           {
-            "title": "Revisa tu pedido",
-            "text": "Comprueba productos, cantidades y datos de recogida antes de confirmar."
+            "text": "Comprueba productos, cantidades y datos de recogida antes de confirmar.",
+            "title": "Revisa tu pedido"
           },
           {
-            "title": "Readable setting",
-            "text": "Use 16 px body text with approximately 24 px line height; avoid tightly packed instructions beneath fields."
+            "text": "Use 16 px body text with approximately 24 px line height; avoid tightly packed instructions beneath fields.",
+            "title": "Readable setting"
           }
-        ],
-        "id": "brand-page-18",
-        "layout": "type"
+        ]
       },
       {
+        "id": "brand-page-19",
         "title": "Typography",
+        "layout": "type",
         "summary": "Use weight 700 for the name, headings, totals and primary labels; use 400 for descriptions and supporting copy. Avoid italics, ornamental capitals, synthetic weights and compressed lettering.",
         "examples": [
           {
-            "title": "Total de demostración",
-            "text": "2 × Taco de pastor · $44.00 MXN"
+            "text": "2 × Taco de pastor · $44.00 MXN",
+            "title": "Total de demostración"
           },
           {
-            "title": "Weight contrast",
-            "text": "Set “Total de demostración” and its amount in 700. Keep quantity details and explanatory text in 400."
+            "text": "Set “Total de demostración” and its amount in 700. Keep quantity details and explanatory text in 400.",
+            "title": "Weight contrast"
           }
-        ],
-        "id": "brand-page-19",
-        "layout": "type"
+        ]
       },
       {
+        "id": "brand-page-20",
         "title": "Supporting type",
+        "layout": "type",
         "summary": "Use Atkinson Hyperlegible 400 for secondary information, not a second display family. Secondary text may be 12–14 px; navigation and buttons stay at least 14 px, fields at 16 px.",
         "examples": [
           {
-            "title": "Notas opcionales",
-            "text": "Puedes escribir hasta 500 caracteres."
+            "text": "Puedes escribir hasta 500 caracteres.",
+            "title": "Notas opcionales"
           },
           {
-            "title": "Secondary information",
-            "text": "Use 14 px ink text for helper copy on cream. Reserve Toasted Edge primarily for borders, not small essential text."
+            "text": "Use 14 px ink text for helper copy on cream. Reserve Toasted Edge primarily for borders, not small essential text.",
+            "title": "Secondary information"
           }
-        ],
-        "id": "brand-page-20",
-        "layout": "type"
+        ]
       },
       {
+        "id": "brand-page-21",
         "title": "Hierarchy",
+        "layout": "type",
         "summary": "Set page titles at 28–40 px, section headings at 20–24 px and body text at 16 px. Give the current action strong weight without letting it compete with the page title.",
         "examples": [
           {
-            "title": "Tu demostración",
-            "text": "Administra los productos y pedidos de esta sesión."
+            "text": "Administra los productos y pedidos de esta sesión.",
+            "title": "Tu demostración"
           },
           {
-            "title": "Applied scale",
-            "text": "Tu demostración: 32 px/700. Productos: 24 px/700. Product names: 18 px/700. Descriptions: 16 px/400."
+            "text": "Tu demostración: 32 px/700. Productos: 24 px/700. Product names: 18 px/700. Descriptions: 16 px/400.",
+            "title": "Applied scale"
           }
-        ],
-        "id": "brand-page-21",
-        "layout": "type"
+        ]
       },
       {
+        "id": "brand-page-22",
         "title": "Layouts",
+        "layout": "applications",
         "summary": "Use a 4/8/12/16/24/32 px spacing scale and 8 px corners. Desktop places catalog left and comanda right; at 768 px use two catalog columns with checkout at available width, then stack on narrow screens.",
         "examples": [
           {
-            "title": "390 px composition",
-            "text": "Identity and navigation lead into notice, search, filters, first product and access to the comanda. Let text determine height."
+            "text": "Identity and navigation lead into notice, search, filters, first product and access to the comanda. Let text determine height.",
+            "title": "390 px composition"
           },
           {
-            "title": "Continuous comanda",
-            "text": "Selected references lead directly into lines, total and action. Keep all eight selected lines in normal flow when needed."
+            "text": "Selected references lead directly into lines, total and action. Keep all eight selected lines in normal flow when needed.",
+            "title": "Continuous comanda"
           }
-        ],
-        "id": "brand-page-22",
-        "layout": "applications"
+        ]
       },
       {
+        "id": "brand-page-23",
         "title": "Colors",
+        "layout": "divider",
         "summary": "Introduce the palette with cream as the dominant field, ink for reading and red for action. Maize brings warmth to selected surfaces; toasted borders organize content without heavy boxes.",
         "examples": [
           {
-            "title": "Warm, clear, grounded",
-            "text": "Cream catalog · ink labels · red Añadir button · maize comanda heading."
+            "text": "Cream catalog · ink labels · red Añadir button · maize comanda heading.",
+            "title": "Warm, clear, grounded"
           },
           {
-            "title": "Divider treatment",
-            "text": "Use one Roast Red panel with cream text rather than five equally weighted color blocks."
+            "text": "Use one Roast Red panel with cream text rather than five equally weighted color blocks.",
+            "title": "Divider treatment"
           }
-        ],
-        "id": "brand-page-23",
-        "layout": "divider"
+        ]
       },
       {
+        "id": "brand-page-24",
         "title": "Colors overview",
+        "layout": "colors",
         "summary": "Preserve all five palette hex values. Add #286344 only as Confirmed Green for confirmed results; it is not an alternate accent, category color or pending-state indicator.",
         "examples": [
           {
-            "title": "Core roles",
-            "text": "Background: Warm Cream #FFF5E5. Surface: Golden Maize #F0C463. Accent: Roast Red #A83224."
+            "text": "Background: Warm Cream #FFF5E5. Surface: Golden Maize #F0C463. Accent: Roast Red #A83224.",
+            "title": "Core roles"
           },
           {
-            "title": "Reading and structure",
-            "text": "Text: Cocoa Ink #302019. Muted/border: Toasted Edge #897465. Prefer ink for essential copy."
+            "text": "Text: Cocoa Ink #302019. Muted/border: Toasted Edge #897465. Prefer ink for essential copy.",
+            "title": "Reading and structure"
           },
           {
-            "title": "Confirmed result",
-            "text": "“Pedido de demostración guardado” may use #286344. Keep the separate “Pendiente” status neutral."
+            "text": "“Pedido de demostración guardado” may use #286344. Keep the separate “Pendiente” status neutral.",
+            "title": "Confirmed result"
           }
-        ],
-        "id": "brand-page-24",
-        "layout": "colors"
+        ]
       },
       {
+        "id": "brand-page-25",
         "title": "Using Tints",
+        "layout": "colors",
         "summary": "Prefer the supplied solid colors over new tints. Keep cream behind long text and maize on compact headers. Do not lower text or control opacity to communicate disabled, pending or error states.",
         "examples": [
           {
-            "title": "Quiet surface",
-            "text": "Use a cream product card with a Toasted Edge border; avoid translucent red behind product descriptions."
+            "text": "Use a cream product card with a Toasted Edge border; avoid translucent red behind product descriptions.",
+            "title": "Quiet surface"
           },
           {
-            "title": "Pending status",
-            "text": "Show “Pendiente” in ink on cream with a border, not pale green or an unlabeled colored dot."
+            "text": "Show “Pendiente” in ink on cream with a border, not pale green or an unlabeled colored dot.",
+            "title": "Pending status"
           }
-        ],
-        "id": "brand-page-25",
-        "layout": "colors"
+        ]
       },
       {
+        "id": "brand-page-26",
         "title": "Graphic Elements",
+        "layout": "divider",
         "summary": "Use the fold and continuous comanda border as the signature graphic language. Reserve space for real selections; never create eight empty slots, decorative receipt tears or food textures.",
         "examples": [
           {
-            "title": "Single selection",
-            "text": "One Taco de pastor reference sits in a compact frame directly above its editable line."
+            "text": "One Taco de pastor reference sits in a compact frame directly above its editable line.",
+            "title": "Single selection"
           },
           {
-            "title": "Several selections",
-            "text": "Taco de asada and Agua de jamaica form a continuous list, with one shared total and action edge."
+            "text": "Taco de asada and Agua de jamaica form a continuous list, with one shared total and action edge.",
+            "title": "Several selections"
           }
-        ],
-        "id": "brand-page-26",
-        "layout": "divider"
+        ]
       },
       {
+        "id": "brand-page-27",
         "title": "Icons",
+        "layout": "content",
         "summary": "Use simple local line icons with ink strokes and consistent geometry. Icons support visible labels; quantity controls need product-specific accessible names and touch targets of at least 44 px.",
         "examples": [
           {
-            "title": "Quantity controls",
-            "text": "Accessible names: “Aumentar cantidad de Taco de pastor” and “Reducir cantidad de Taco de pastor”."
+            "text": "Accessible names: “Aumentar cantidad de Taco de pastor” and “Reducir cantidad de Taco de pastor”.",
+            "title": "Quantity controls"
           },
           {
-            "title": "Explicit removal",
-            "text": "Use “Quitar” beside its icon. At quantity one, minus must not silently remove the product."
+            "text": "Use “Quitar” beside its icon. At quantity one, minus must not silently remove the product.",
+            "title": "Explicit removal"
           },
           {
-            "title": "Navigation",
-            "text": "Keep Menú, Mis pedidos and Administrar as text labels even when accompanied by icons."
+            "text": "Keep Menú, Mis pedidos and Administrar as text labels even when accompanied by icons.",
+            "title": "Navigation"
           }
-        ],
-        "id": "brand-page-27",
-        "layout": "content"
+        ]
       },
       {
+        "id": "brand-page-28",
         "title": "Illustration, not photography",
+        "layout": "applications",
         "summary": "Replace photography with eight local conceptual SVG illustrations. Use complete contours and consistent geometry; distinguish ingredients without suggesting portion sizes or borrowing another product's image.",
         "examples": [
           {
-            "title": "Six tacos",
-            "text": "Pastor, asada, pollo, champiñones, papa and frijoles each receive a distinct conceptual filling within the same visual frame."
+            "text": "Pastor, asada, pollo, champiñones, papa and frijoles each receive a distinct conceptual filling within the same visual frame.",
+            "title": "Six tacos"
           },
           {
-            "title": "Two beverages",
-            "text": "Agua de jamaica and Agua de horchata use distinct local cup illustrations without volume claims."
+            "text": "Agua de jamaica and Agua de horchata use distinct local cup illustrations without volume claims.",
+            "title": "Two beverages"
           },
           {
-            "title": "Missing reference",
-            "text": "Keep the original product name and illustration frame visible; offer recovery instead of substituting another taco."
+            "text": "Keep the original product name and illustration frame visible; offer recovery instead of substituting another taco.",
+            "title": "Missing reference"
           }
-        ],
-        "id": "brand-page-28",
-        "layout": "applications"
+        ]
       },
       {
+        "id": "brand-page-29",
         "title": "Moodboard",
+        "layout": "applications",
         "summary": "Build the reference board from the supplied palette, tortilla geometry, legible type and connected comanda. Exclude stock food photos, rustic textures and generic restaurant dashboards.",
         "examples": [
           {
-            "title": "Chosen direction",
-            "text": "Comanda conectada: a maize heading, ink border and selected product references continuing into editable lines."
+            "text": "Comanda conectada: a maize heading, ink border and selected product references continuing into editable lines.",
+            "title": "Chosen direction"
           },
           {
-            "title": "Supporting references",
-            "text": "Cream space, red action labels, rounded 8 px corners and a clear Atkinson Hyperlegible price specimen."
+            "text": "Cream space, red action labels, rounded 8 px corners and a clear Atkinson Hyperlegible price specimen.",
+            "title": "Supporting references"
           }
-        ],
-        "id": "brand-page-29",
-        "layout": "applications"
+        ]
       },
       {
+        "id": "brand-page-30",
         "title": "Applications",
+        "layout": "divider",
         "summary": "All applications in this section are design studies. Carry the same name, supported symbol, palette and connected-comanda hierarchy across screens and illustrative physical surfaces.",
         "examples": [
           {
-            "title": "Del menú a tu comanda",
-            "text": "Elige, ajusta y revisa una selección de demostración."
+            "text": "Elige, ajusta y revisa una selección de demostración.",
+            "title": "Del menú a tu comanda"
           },
           {
-            "title": "Study boundaries",
-            "text": "Physical and social studies add no business address, account, payment service or extra application route."
+            "text": "Physical and social studies add no business address, account, payment service or extra application route.",
+            "title": "Study boundaries"
           }
-        ],
-        "id": "brand-page-30",
-        "layout": "divider"
+        ]
       },
       {
+        "id": "brand-page-31",
         "title": "Social media icons",
+        "layout": "logo",
         "summary": "Design study: center the supported tortilla symbol within a square avatar. Leave crop tolerance around the cream circle; do not add a platform badge, initials or a fictional account handle.",
         "examples": [
           {
-            "title": "Taquería Monterey",
-            "text": "Identidad de un prototipo ficticio."
+            "text": "Identidad de un prototipo ficticio.",
+            "title": "Taquería Monterey"
           },
           {
-            "title": "Avatar crop",
-            "text": "Use a cream square with the full symbol at 80% width. Keep the entire tortilla visible in circular crops."
+            "text": "Use a cream square with the full symbol at 80% width. Keep the entire tortilla visible in circular crops.",
+            "title": "Avatar crop"
           }
-        ],
-        "id": "brand-page-31",
-        "layout": "logo"
+        ]
       },
       {
+        "id": "brand-page-32",
         "title": "Social media profiles",
+        "layout": "applications",
         "summary": "Design study: use the exact name as the profile heading and a plain explanatory bio. Pair an uncluttered cream banner with the avatar; omit contact links, location and invented social accounts.",
         "examples": [
           {
-            "title": "Taquería Monterey",
-            "text": "Menú y pedidos de demostración. Sin cobros ni preparación real."
+            "text": "Menú y pedidos de demostración. Sin cobros ni preparación real.",
+            "title": "Taquería Monterey"
           },
           {
-            "title": "Profile hierarchy",
-            "text": "Keep the name above the bio. Use the comanda border as a banner detail, not a simulated platform control."
+            "text": "Keep the name above the bio. Use the comanda border as a banner detail, not a simulated platform control.",
+            "title": "Profile hierarchy"
           }
-        ],
-        "id": "brand-page-32",
-        "layout": "applications"
+        ]
       },
       {
+        "id": "brand-page-33",
         "title": "Instagram posts",
+        "layout": "applications",
         "summary": "Design study: feature one local illustration, one product name and one supplied demonstration price. Use cream backgrounds and ink headings; do not add discounts or delivery claims.",
         "examples": [
           {
-            "title": "Taco de pastor",
-            "text": "$22.00 MXN · Producto y precio de demostración."
+            "text": "$22.00 MXN · Producto y precio de demostración.",
+            "title": "Taco de pastor"
           },
           {
-            "title": "Agua de jamaica",
-            "text": "$25.00 MXN · Explora la categoría Bebidas."
+            "text": "$25.00 MXN · Explora la categoría Bebidas.",
+            "title": "Agua de jamaica"
           },
           {
-            "title": "Post composition",
-            "text": "Place the illustration above the name and price, with a small complete lockup below. Avoid text over the food silhouette."
+            "text": "Place the illustration above the name and price, with a small complete lockup below. Avoid text over the food silhouette.",
+            "title": "Post composition"
           }
-        ],
-        "id": "brand-page-33",
-        "layout": "applications"
+        ]
       },
       {
+        "id": "brand-page-34",
         "title": "Posters",
+        "layout": "applications",
         "summary": "Design study: use a typographic menu poster, not an event or opening announcement. Group only the supplied products into Tacos and Bebidas, with a clear demonstration caption.",
         "examples": [
           {
-            "title": "Un menú para explorar",
-            "text": "Tacos y bebidas de demostración. Sin cobros ni preparación real."
+            "text": "Tacos y bebidas de demostración. Sin cobros ni preparación real.",
+            "title": "Un menú para explorar"
           },
           {
-            "title": "Tacos",
-            "text": "Pastor $22.00 · Asada $28.00 · Pollo $24.00 · Champiñones $24.00 · Papa $20.00 · Frijoles $20.00. Precios en MXN."
+            "text": "Pastor $22.00 · Asada $28.00 · Pollo $24.00 · Champiñones $24.00 · Papa $20.00 · Frijoles $20.00. Precios en MXN.",
+            "title": "Tacos"
           },
           {
-            "title": "Bebidas",
-            "text": "Agua de jamaica $25.00 MXN · Agua de horchata $25.00 MXN."
+            "text": "Agua de jamaica $25.00 MXN · Agua de horchata $25.00 MXN.",
+            "title": "Bebidas"
           }
-        ],
-        "id": "brand-page-34",
-        "layout": "applications"
+        ]
       },
       {
+        "id": "brand-page-35",
         "title": "T shirts and totes",
+        "layout": "applications",
         "summary": "Design study: use the full-color supported symbol on cream fabric, with the name separately typeset below. Keep decoration away from seams; do not imply merchandise is available to buy.",
         "examples": [
           {
-            "title": "Taquería Monterey",
-            "text": "Menú y comanda."
+            "text": "Menú y comanda.",
+            "title": "Taquería Monterey"
           },
           {
-            "title": "Tote layout",
-            "text": "Center one symbol and one name block. Leave at least one quarter-symbol width of clear space around the lockup."
+            "text": "Center one symbol and one name block. Leave at least one quarter-symbol width of clear space around the lockup.",
+            "title": "Tote layout"
           }
-        ],
-        "id": "brand-page-35",
-        "layout": "applications"
+        ]
       },
       {
+        "id": "brand-page-36",
         "title": "Takeaway packaging",
+        "layout": "applications",
         "summary": "Design study: apply the identity to a cream sleeve with a small maize panel. Keep the symbol intact and avoid claims about materials, portion sizes, freshness or an actual packaging service.",
         "examples": [
           {
-            "title": "Tu selección, a la vista",
-            "text": "Taquería Monterey · Estudio de empaque."
+            "text": "Taquería Monterey · Estudio de empaque.",
+            "title": "Tu selección, a la vista"
           },
           {
-            "title": "Sleeve composition",
-            "text": "Place the full lockup on the broad face. Keep the red fold away from the sleeve seam and leave the reverse uncluttered."
+            "text": "Place the full lockup on the broad face. Keep the red fold away from the sleeve seam and leave the reverse uncluttered.",
+            "title": "Sleeve composition"
           }
-        ],
-        "id": "brand-page-36",
-        "layout": "applications"
+        ]
       },
       {
+        "id": "brand-page-37",
         "title": "Pickup request panel",
+        "layout": "applications",
         "summary": "Design study: represent pickup as fields inside the expanded comanda on /. Show no map, address or business hours. Label the requested time without implying availability or a real collection point.",
         "examples": [
           {
-            "title": "Datos de recogida",
-            "text": "Indica tu nombre y un horario solicitado. Las notas son opcionales."
+            "text": "Indica tu nombre y un horario solicitado. Las notas son opcionales.",
+            "title": "Datos de recogida"
           },
           {
-            "title": "Horario solicitado",
-            "text": "Usa el formato HH:mm. Este dato no confirma disponibilidad ni preparación real."
+            "text": "Usa el formato HH:mm. Este dato no confirma disponibilidad ni preparación real.",
+            "title": "Horario solicitado"
           },
           {
-            "title": "Field placement",
-            "text": "Place persistent labels above full-width fields. Keep selected references and the total in the same flowing comanda."
+            "text": "Place persistent labels above full-width fields. Keep selected references and the total in the same flowing comanda.",
+            "title": "Field placement"
           }
-        ],
-        "id": "brand-page-37",
-        "layout": "applications"
+        ]
       },
       {
+        "id": "brand-page-38",
         "title": "Ordering controls",
+        "layout": "applications",
         "summary": "Design study: use red for the current primary action and ink text for secondary actions. Keep 44 px targets, visible focus and labels. Animate an added line for 160 ms; remove motion when requested.",
         "examples": [
           {
-            "title": "Añadir",
-            "text": "Taco de pastor · Cantidad: 2 · $44.00 MXN"
+            "text": "Taco de pastor · Cantidad: 2 · $44.00 MXN",
+            "title": "Añadir"
           },
           {
-            "title": "Action sequence",
-            "text": "Añadir → Continuar con mi pedido → Revisar pedido → Confirmar pedido. Keep every step within Menú."
+            "text": "Añadir → Continuar con mi pedido → Revisar pedido → Confirmar pedido. Keep every step within Menú.",
+            "title": "Action sequence"
           },
           {
-            "title": "Accessible feedback",
-            "text": "“Taco de pastor añadido. Cantidad en la comanda: 2.” Announce without moving focus or relying on animation."
+            "text": "“Taco de pastor añadido. Cantidad en la comanda: 2.” Announce without moving focus or relying on animation.",
+            "title": "Accessible feedback"
           }
-        ],
-        "id": "brand-page-38",
-        "layout": "applications"
+        ]
       },
       {
+        "id": "brand-page-39",
         "title": "Order receipt",
+        "layout": "applications",
         "summary": "Design study: make the confirmed result the continuation of the comanda, not a payment receipt. Show a folio only after confirmed saving; retain selected references, historical lines and pickup details.",
         "examples": [
           {
-            "title": "Pedido de demostración guardado",
-            "text": "Estado: Pendiente · Sin cobros ni preparación real."
+            "text": "Estado: Pendiente · Sin cobros ni preparación real.",
+            "title": "Pedido de demostración guardado"
           },
           {
-            "title": "Saved selection specimen",
-            "text": "2 × Taco de pastor: $44.00 MXN. 1 × Agua de jamaica: $25.00 MXN. Total: $69.00 MXN."
+            "text": "2 × Taco de pastor: $44.00 MXN. 1 × Agua de jamaica: $25.00 MXN. Total: $69.00 MXN.",
+            "title": "Saved selection specimen"
           },
           {
-            "title": "Result composition",
-            "text": "Place the server-returned folio beneath the result heading, followed by Ver mis pedidos and Volver al menú."
+            "text": "Place the server-returned folio beneath the result heading, followed by Ver mis pedidos and Volver al menú.",
+            "title": "Result composition"
           }
-        ],
-        "id": "brand-page-39",
-        "layout": "applications"
+        ]
       },
       {
+        "id": "brand-page-40",
         "title": "Demo reference card",
+        "layout": "applications",
         "summary": "Design study replacing a rewards card: explain the prototype's three views on a simple cream card. Do not introduce loyalty points, stamps, memberships or rewards.",
         "examples": [
           {
-            "title": "Explora tu demostración",
-            "text": "Menú para elegir · Mis pedidos para consultar · Administrar para editar."
+            "text": "Menú para elegir · Mis pedidos para consultar · Administrar para editar.",
+            "title": "Explora tu demostración"
           },
           {
-            "title": "Card hierarchy",
-            "text": "Use the full name on the front and three short view descriptions on the reverse. Avoid serial numbers or membership language."
+            "text": "Use the full name on the front and three short view descriptions on the reverse. Avoid serial numbers or membership language.",
+            "title": "Card hierarchy"
           }
-        ],
-        "id": "brand-page-40",
-        "layout": "applications"
+        ]
       },
       {
+        "id": "brand-page-41",
         "title": "Demo title sign",
+        "layout": "applications",
         "summary": "Design study: treat signage as an exhibition title panel, not evidence of a restaurant location. Use an ink field, cream name and unchanged supported symbol; omit opening hours and directional arrows.",
         "examples": [
           {
-            "title": "Taquería Monterey",
-            "text": "Prototipo ficticio de menú y pedidos."
+            "text": "Prototipo ficticio de menú y pedidos.",
+            "title": "Taquería Monterey"
           },
           {
-            "title": "Distance hierarchy",
-            "text": "Make Monterey dominant, keep Taquería legible above it and place the explanatory line beneath the full lockup."
+            "text": "Make Monterey dominant, keep Taquería legible above it and place the explanatory line beneath the full lockup.",
+            "title": "Distance hierarchy"
           }
-        ],
-        "id": "brand-page-41",
-        "layout": "applications"
+        ]
       },
       {
+        "id": "brand-page-42",
         "title": "Ordering website",
+        "layout": "applications",
         "summary": "Design study: keep exactly three views with visible navigation: /, /pedidos and /administrar. Checkout stays within Menú. Present session-scoped Turso saving honestly; never simulate success when saving is blocked.",
         "examples": [
           {
-            "title": "Menú",
-            "text": "Buscar productos · Todo · Tacos · Bebidas"
+            "text": "Buscar productos · Todo · Tacos · Bebidas",
+            "title": "Menú"
           },
           {
-            "title": "Mis pedidos",
-            "text": "Aún no tienes pedidos guardados. Volver al menú."
+            "text": "Aún no tienes pedidos guardados. Volver al menú.",
+            "title": "Mis pedidos"
           },
           {
-            "title": "No pudimos iniciar tu sesión",
-            "text": "Necesitamos la cookie de sesión para guardar tu demostración. Reintentar."
+            "text": "Necesitamos la cookie de sesión para guardar tu demostración. Reintentar.",
+            "title": "No pudimos iniciar tu sesión"
           }
-        ],
-        "id": "brand-page-42",
-        "layout": "applications"
+        ]
       },
       {
+        "id": "brand-page-43",
         "title": "Favicon",
+        "layout": "logo",
         "summary": "Design study: derive the favicon and touch icon from the exact tortilla symbol, including its cream support. Use no initials or template icon; keep the tab title in Spanish.",
         "examples": [
           {
-            "title": "Menú · Taquería Monterey",
-            "text": "Explora productos y prepara tu pedido de demostración."
+            "text": "Explora productos y prepara tu pedido de demostración.",
+            "title": "Menú · Taquería Monterey"
           },
           {
-            "title": "Small-format treatment",
-            "text": "Center the complete geometry on a cream canvas. Do not crop the red fold or redraw the outline for a smaller size."
+            "text": "Center the complete geometry on a cream canvas. Do not crop the red fold or redraw the outline for a smaller size.",
+            "title": "Small-format treatment"
           }
-        ],
-        "id": "brand-page-43",
-        "layout": "logo"
+        ]
       },
       {
+        "id": "brand-page-44",
         "title": "Stationery",
+        "layout": "applications",
         "summary": "Design study: use stationery for project notes, not commercial invoices. Keep the full lockup at the top, ink body text on cream and one toasted divider; omit invented contact details.",
         "examples": [
           {
-            "title": "Notas de la demostración",
-            "text": "Taquería Monterey · Menú, comanda y estados del pedido."
+            "text": "Taquería Monterey · Menú, comanda y estados del pedido.",
+            "title": "Notas de la demostración"
           },
           {
-            "title": "Page structure",
-            "text": "Use a 32 px inset, a compact header and generous writing space. Keep the red fold as a single corner detail."
+            "text": "Use a 32 px inset, a compact header and generous writing space. Keep the red fold as a single corner detail.",
+            "title": "Page structure"
           }
-        ],
-        "id": "brand-page-44",
-        "layout": "applications"
+        ]
       },
       {
+        "id": "brand-page-45",
         "title": "Project cards",
+        "layout": "applications",
         "summary": "Design study adapting business cards: introduce the fictional project without a named employee, address, phone or account. Use a clear front-and-back hierarchy instead of a simulated contact card.",
         "examples": [
           {
-            "title": "Taquería Monterey",
-            "text": "Un prototipo para elegir, revisar y guardar pedidos de demostración."
+            "text": "Un prototipo para elegir, revisar y guardar pedidos de demostración.",
+            "title": "Taquería Monterey"
           },
           {
-            "title": "Reverse side",
-            "text": "Menú · Mis pedidos · Administrar. No login, payment or contact fields belong on this study."
+            "text": "Menú · Mis pedidos · Administrar. No login, payment or contact fields belong on this study.",
+            "title": "Reverse side"
           }
-        ],
-        "id": "brand-page-45",
-        "layout": "applications"
+        ]
       },
       {
+        "id": "brand-page-46",
         "title": "Demo invitation card",
+        "layout": "applications",
         "summary": "Design study replacing a gift card: invite exploration without stored value, redemption codes or discounts. Use a maize face, ink headline and the supported tortilla symbol.",
         "examples": [
           {
-            "title": "Prueba una selección",
-            "text": "Explora seis tacos y dos bebidas de demostración."
+            "text": "Explora seis tacos y dos bebidas de demostración.",
+            "title": "Prueba una selección"
           },
           {
-            "title": "Scope caption",
-            "text": "Tarjeta conceptual · Sin valor monetario."
+            "text": "Tarjeta conceptual · Sin valor monetario.",
+            "title": "Scope caption"
           }
-        ],
-        "id": "brand-page-46",
-        "layout": "applications"
+        ]
       },
       {
+        "id": "brand-page-47",
         "title": "Packaging seal",
+        "layout": "applications",
         "summary": "Design study: center the unchanged tortilla symbol on a cream circular seal. If the name is included, place it below the symbol in straight lines, not curved or squeezed around the edge.",
         "examples": [
           {
-            "title": "Taquería Monterey",
-            "text": "Estudio de identidad."
+            "text": "Estudio de identidad.",
+            "title": "Taquería Monterey"
           },
           {
-            "title": "Seal restraint",
-            "text": "Use the mark without freshness, safety or tamper-proof claims. Preserve its cream support and clear space."
+            "text": "Use the mark without freshness, safety or tamper-proof claims. Preserve its cream support and clear space.",
+            "title": "Seal restraint"
           }
-        ],
-        "id": "brand-page-47",
-        "layout": "applications"
+        ]
       },
       {
+        "id": "brand-page-48",
         "title": "In-app assistance",
+        "layout": "applications",
         "summary": "Design study adapting customer support: put help beside the relevant action, with no invented contact channel. Distinguish empty, invalid, blocked and uncertain states; preserve entered values during recovery.",
         "examples": [
           {
-            "title": "Recuperar pedido",
-            "text": "No pudimos confirmar el resultado. Consulta el mismo intento antes de iniciar otro pedido."
+            "text": "No pudimos confirmar el resultado. Consulta el mismo intento antes de iniciar otro pedido.",
+            "title": "Recuperar pedido"
           },
           {
-            "title": "¿Cancelar este pedido?",
-            "text": "Conservar pedido · Confirmar cancelación. La cancelación solo está disponible mientras el pedido siga pendiente."
+            "text": "Conservar pedido · Confirmar cancelación. La cancelación solo está disponible mientras el pedido siga pendiente.",
+            "title": "¿Cancelar este pedido?"
           },
           {
-            "title": "El producto cambió",
-            "text": "Compara tu selección con los datos actuales y decide cómo continuar antes de revisar de nuevo."
+            "text": "Compara tu selección con los datos actuales y decide cómo continuar antes de revisar de nuevo.",
+            "title": "El producto cambió"
           }
-        ],
-        "id": "brand-page-48",
-        "layout": "applications"
+        ]
       },
       {
+        "id": "brand-page-49",
         "title": "Thank you",
+        "layout": "cover",
         "summary": "Public research could not be completed. This guide presents a proposed identity based on the supplied brief.",
         "examples": [
           {
-            "title": "Gracias por explorar Taquería Monterey",
-            "text": "Una demostración para elegir con claridad y mantener tu selección a la vista."
+            "text": "Una demostración para elegir con claridad y mantener tu selección a la vista.",
+            "title": "Gracias por explorar Taquería Monterey"
           },
           {
-            "title": "Colophon",
-            "text": "Original folded-tortilla mark created for this fictional project. Supplied product names and MXN prices are demonstration data, not real business claims."
+            "text": "Original folded-tortilla mark created for this fictional project. Supplied product names and MXN prices are demonstration data, not real business claims.",
+            "title": "Colophon"
           }
-        ],
-        "id": "brand-page-49",
-        "layout": "cover"
+        ]
       }
-    ]
-  }
+    ],
+    "voice": "Español directo, cálido y preciso. Acciones completas como Añadir, Revisar pedido y Conservar pedido. Distinguir pendiente, guardado y resultado incierto sin tecnicismos innecesarios ni promesas operativas.",
+    "colors": [
+      {
+        "hex": "#FFF5E5",
+        "name": "Warm Cream",
+        "role": "background"
+      },
+      {
+        "hex": "#F0C463",
+        "name": "Golden Maize",
+        "role": "surface"
+      },
+      {
+        "hex": "#A83224",
+        "name": "Roast Red",
+        "role": "accent"
+      },
+      {
+        "hex": "#302019",
+        "name": "Cocoa Ink",
+        "role": "text"
+      },
+      {
+        "hex": "#897465",
+        "name": "Toasted Edge",
+        "role": "muted"
+      }
+    ],
+    "origin": "proposed",
+    "markSvg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 160 160\"><circle cx=\"80\" cy=\"80\" r=\"76\" fill=\"#FFF5E5\"/><path d=\"M24 56 Q80 20 136 56 A56 56 0 0 1 24 56Z\" fill=\"#F0C463\" stroke=\"#302019\" stroke-width=\"6\" stroke-linejoin=\"round\"/><path d=\"M24 56 Q80 78 136 56\" fill=\"none\" stroke=\"#302019\" stroke-width=\"6\" stroke-linecap=\"round\"/><path d=\"M101 66 Q119 63 136 56 Q134 79 123 92Z\" fill=\"#A83224\" stroke=\"#302019\" stroke-width=\"6\" stroke-linejoin=\"round\"/></svg>",
+    "sources": [
+      "https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:wght@400;500;600;700&display=swap"
+    ],
+    "version": 1,
+    "fontFaces": [
+      {
+        "url": "https://fonts.gstatic.com/s/atkinsonhyperlegible/v12/9Bt23C1KxNDXMspQ1lPyU89-1h6ONRlW45GE5Q.ttf",
+        "family": "Atkinson Hyperlegible",
+        "weight": "400",
+        "availableWeights": [
+          "400",
+          "700"
+        ]
+      },
+      {
+        "url": "https://fonts.gstatic.com/s/atkinsonhyperlegible/v12/9Bt73C1KxNDXMspQ1lPyU89-1h6ONRlW45G8WbcNcw.ttf",
+        "family": "Atkinson Hyperlegible",
+        "weight": "700",
+        "availableWeights": [
+          "400",
+          "700"
+        ]
+      }
+    ],
+    "positioning": "Prototipo ficticio de una taquería cuyo menú se conecta directamente con una comanda editable. Productos y precios de demostración, sin cobros, preparación real ni afirmaciones sobre un negocio existente.",
+    "researchStatus": "unavailable",
+    "tokenSemanticsVersion": 1
+  },
+  "textColor": "#302019",
+  "accentColor": "#A83224",
+  "fontHeading": "Atkinson Hyperlegible",
+  "borderRadius": "0.5rem",
+  "logoImageUrl": null,
+  "primaryColor": "#A83224",
+  "secondaryColor": "#F0C463",
+  "backgroundColor": "#FFF5E5"
 }
