@@ -4,6 +4,17 @@ import localFont from "next/font/local";
 import { Header } from "@/components/shared";
 import "./globals.css";
 import branding from "@/branding.json";
+// Constructor: server-rendered website settings
+import constructorWebsiteSettings from "../public/constructor-settings.json";
+type constructorWebsiteSettingsMetadataValue<T> = Omit<NonNullable<T>, 'title' | 'description'> & { title: string; description: string };
+function constructorWebsiteSettingsMetadata<T extends object | null | undefined>(value: PromiseLike<T>): Promise<constructorWebsiteSettingsMetadataValue<T>>;
+function constructorWebsiteSettingsMetadata<T extends object | null | undefined>(value: T): constructorWebsiteSettingsMetadataValue<T>;
+function constructorWebsiteSettingsMetadata(value: object | null | undefined | PromiseLike<object>): object | Promise<object> {
+  if (value && 'then' in value && typeof value.then === 'function') return Promise.resolve(value).then(original => constructorWebsiteSettingsMetadata(original));
+  return { ...value, title: constructorWebsiteSettings.title, description: constructorWebsiteSettings.description };
+}
+
+
 const atkinson = localFont({
   src: [
     {
@@ -41,20 +52,20 @@ const brandStyle = {
   "--brand-font-heading": branding.fontHeading,
   "--brand-font-body": branding.fontBody,
 } as CSSProperties;
-export const metadata: Metadata = {
+export const metadata: Metadata = constructorWebsiteSettingsMetadata(({
   title: {
     default: `Menú · ${branding.logoText}`,
     template: `%s · ${branding.logoText}`,
   },
   description: `Explora el menú y guarda un pedido de demostración en ${branding.logoText}.`,
-};
+}));
 export default function RootLayout({
   children,
 }: {
   children: React.ReactNode;
 }) {
   return (
-    <html lang="es" className={atkinson.variable} style={brandStyle}>
+    <html lang={constructorWebsiteSettings.language} className={atkinson.variable} style={brandStyle}>
       <body>
         {additionalFontFaces && <style>{additionalFontFaces}</style>}
         <Header />
@@ -65,7 +76,7 @@ export default function RootLayout({
         </footer>
         <script src={"https://constructor-api-git-fix-two-projects-ai-p-5c3f22-useconstructor.vercel.app/v1/projects/P-6NY3YK/analytics/script.js"} defer></script>
         <script src="/constructor-editor.js" defer></script>
-      </body>
+      <script src="/constructor-settings.js" defer></script></body>
     </html>
   );
 }
