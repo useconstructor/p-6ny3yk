@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "days": "7",
+  "days": "30",
   "metric": "visitors",
   "breakdowns": [
     "path",
