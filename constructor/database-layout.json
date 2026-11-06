@@ -2,24 +2,24 @@
   "version": 1,
   "positions": {
     "categorias": {
-      "x": 0,
-      "y": 0
+      "x": 440,
+      "y": 508
     },
     "lineas_pedido": {
-      "x": 440,
-      "y": 0
-    },
-    "pedidos": {
       "x": 880,
       "y": 0
     },
-    "productos": {
+    "pedidos": {
       "x": 0,
-      "y": 508
+      "y": 0
+    },
+    "productos": {
+      "x": 440,
+      "y": 0
     },
     "sesiones": {
-      "x": 527.4284370053607,
-      "y": 408.21754472214263
+      "x": 0,
+      "y": 508
     }
   },
   "viewport": {
