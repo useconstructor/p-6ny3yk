@@ -3,7 +3,7 @@
   "workflows": [
     {
       "id": "consultar_catalogo",
-      "name": "Catálogo de demostración",
+      "name": "Consultar catálogo",
       "description": "Consultar los productos de tu sesión de demostración.",
       "endpoint": "/api/catalog",
       "method": "GET",
