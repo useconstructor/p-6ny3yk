@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "tables": {
+    "categorias": {
+      "columns": [
+        "name",
+        "id",
+        "session_id"
+      ],
+      "hidden": [],
+      "pageSize": 25
+    }
+  }
+}
