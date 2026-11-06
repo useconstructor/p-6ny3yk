@@ -1,1 +1,21 @@
-{"version":1,"workflows":[{"id":"consultar_catalogo","name":"Consultar catálogo","description":"Consultar los productos de tu sesión de demostración.","endpoint":"/api/catalog","method":"GET","input":{}},{"id":"consultar_pedidos","name":"Consultar mis pedidos","description":"Consultar los pedidos guardados de tu sesión.","endpoint":"/api/orders","method":"GET","input":{}}]}
+{
+  "version": 1,
+  "workflows": [
+    {
+      "id": "consultar_catalogo",
+      "name": "Catálogo de demostración",
+      "description": "Consultar los productos de tu sesión de demostración.",
+      "endpoint": "/api/catalog",
+      "method": "GET",
+      "input": {}
+    },
+    {
+      "id": "consultar_pedidos",
+      "name": "Consultar mis pedidos",
+      "description": "Consultar los pedidos guardados de tu sesión.",
+      "endpoint": "/api/orders",
+      "method": "GET",
+      "input": {}
+    }
+  ]
+}
