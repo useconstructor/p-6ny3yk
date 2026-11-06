@@ -1,13 +1,4 @@
 {
   "version": 1,
-  "edits": [
-    {
-      "path": "/",
-      "selector": "body:nth-of-type(1)",
-      "styles": {
-        "backgroundColor": "#FFF5E5",
-        "borderRadius": "8px"
-      }
-    }
-  ]
+  "edits": []
 }
