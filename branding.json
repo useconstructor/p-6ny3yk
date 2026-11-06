@@ -1,7 +1,15 @@
 {
-  "tone": "trustworthy",
+  "primaryColor": "#A83224",
+  "secondaryColor": "#E8C98F",
+  "backgroundColor": "#FFF5E5",
+  "textColor": "#302019",
+  "accentColor": "#A83224",
+  "fontHeading": "Atkinson Hyperlegible",
   "fontBody": "Atkinson Hyperlegible",
+  "borderRadius": "0.5rem",
   "logoText": "Taquería Monterey",
+  "tone": "trustworthy",
+  "logoImageUrl": null,
   "brandbook": {
     "motif": "La tortilla plegada inspira el pequeño pliegue de identificación de la comanda. Un borde continuo enlaza referencias seleccionadas, especificación y acción; no introducir celdas vacías obligatorias, texturas fotográficas ni adornos que tapen contenido.",
     "pages": [
@@ -903,13 +911,5 @@
     "positioning": "Prototipo ficticio de una taquería cuyo menú se conecta directamente con una comanda editable. Productos y precios de demostración, sin cobros, preparación real ni afirmaciones sobre un negocio existente.",
     "researchStatus": "unavailable",
     "tokenSemanticsVersion": 1
-  },
-  "textColor": "#302019",
-  "accentColor": "#A83224",
-  "fontHeading": "Atkinson Hyperlegible",
-  "borderRadius": "0.5rem",
-  "logoImageUrl": null,
-  "primaryColor": "#A83224",
-  "secondaryColor": "#F0C463",
-  "backgroundColor": "#FFF5E5"
+  }
 }
