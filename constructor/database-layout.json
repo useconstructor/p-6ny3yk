@@ -1,6 +1,27 @@
 {
   "version": 1,
-  "positions": {},
+  "positions": {
+    "sesiones": {
+      "x": 0,
+      "y": 0
+    },
+    "productos": {
+      "x": 360,
+      "y": 0
+    },
+    "pedidos": {
+      "x": 720,
+      "y": 0
+    },
+    "lineas_pedido": {
+      "x": 360,
+      "y": 560
+    },
+    "categorias": {
+      "x": 720,
+      "y": 560
+    }
+  },
   "viewport": {
     "x": 674.4453744324553,
     "y": 64.44016015966429,
