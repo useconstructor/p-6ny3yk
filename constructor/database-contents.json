@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "tables": {
+    "categorias": {
+      "columns": [
+        "name",
+        "id",
+        "session_id"
+      ],
+      "hidden": [],
+      "pageSize": 25
+    },
+    "pedidos": {
+      "columns": [
+        "folio",
+        "total_cents",
+        "id",
+        "session_id",
+        "status",
+        "version",
+        "created_at",
+        "pickup",
+        "operation_key",
+        "payload_hash"
+      ],
+      "hidden": [],
+      "pageSize": 25
+    }
+  }
+}
