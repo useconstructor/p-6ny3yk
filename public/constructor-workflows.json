@@ -4,7 +4,7 @@
     {
       "id": "consultar_catalogo",
       "name": "Consultar catálogo",
-      "description": "Consulta de prueba del catálogo; guardado automático.",
+      "description": "",
       "endpoint": "/api/catalog",
       "method": "GET",
       "input": {}
