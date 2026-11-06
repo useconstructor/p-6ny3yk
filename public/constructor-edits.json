@@ -1,1 +1,15 @@
-{"version":1,"edits":[]}
+{
+  "version": 1,
+  "edits": [
+    {
+      "path": "/",
+      "selector": "body:nth-of-type(1) > header:nth-of-type(1)",
+      "attributes": {},
+      "responsiveStyles": {
+        "desktop": {
+          "borderRadius": "1px"
+        }
+      }
+    }
+  ]
+}
